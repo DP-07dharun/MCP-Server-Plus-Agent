@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "finance-transactions": {
+      "command": ".venv/Scripts/python",
+      "args": ["server/finance_server.py"]
+    }
+  }
+}
